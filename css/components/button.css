@@ -1,0 +1,29 @@
+.btn-white {
+  background-color: whitesmoke;
+  color: darkslategrey;
+  padding: 20px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.btn-white:hover {
+  background-color: darkslategrey;
+  color: whitesmoke;
+  transition-delay: 100ms;
+}
+
+.btn-black {
+  background-color: darkslategrey;
+  color: whitesmoke;
+  padding: 20px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.btn-black:hover {
+  background-color: gainsboro;
+  color: darkslategrey;
+  transition-delay: 100ms;
+}
